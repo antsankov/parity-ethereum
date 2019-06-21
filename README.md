@@ -1,4 +1,4 @@
-# SHA3 Ethereum Classic Implementation (ECIP-1049) - Uses Parity
+# SHA3 Ethereum Classic Node (ECIP-1049)
 [![Build Status](https://travis-ci.org/antsankov/parity-ethereum.svg?branch=sha3)](https://travis-ci.org/antsankov/parity-ethereum)
 
 - Documentation: https://astor.host/
