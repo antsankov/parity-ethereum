@@ -1,12 +1,13 @@
-# SHA3 Build Status
+# SHA3 Ethereum Classic Implementation (ECIP-1049) - Uses Parity
 [![Build Status](https://travis-ci.org/antsankov/parity-ethereum.svg?branch=sha3)](https://travis-ci.org/antsankov/parity-ethereum)
 
 - Documentation: https://astor.host/
 - Stats page: https://stats.astor.host/
 - Block Explorer: https://explore.astor.host/
 - RPC Node: https://rpc.astor.host/node
+- ECIP-1049: https://github.com/ethereumclassic/ECIPs/issues/13
 
-![Parity Ethereum](docs/logo-parity-ethereum.svg)
+![Parity Ethereum](https://astor.host/assets/img/hero.eff3d442.jpg)
 
 <h2 align="center">The Fastest and most Advanced Ethereum Client.</h2>
 
