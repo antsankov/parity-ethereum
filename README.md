@@ -1,3 +1,11 @@
+# SHA3 Build Status
+[![Build Status](https://travis-ci.org/antsankov/parity-ethereum.svg?branch=sha3)](https://travis-ci.org/antsankov/parity-ethereum)
+
+- Documentation: https://astor.host/
+- Stats page: https://stats.astor.host/
+- Block Explorer: https://explore.astor.host/
+- RPC Node: https://rpc.astor.host/node
+
 ![Parity Ethereum](docs/logo-parity-ethereum.svg)
 
 <h2 align="center">The Fastest and most Advanced Ethereum Client.</h2>
